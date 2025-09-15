@@ -1,0 +1,8 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+models/*.pkl
+data/*      # mantenha só README com instruções
+!data/README.md
+reports/*.pdf
